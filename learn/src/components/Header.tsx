@@ -1,11 +1,8 @@
-type Props = {
-    name:string;
-    age:number;
-}
-export default function Header(props:Props){
+
+export default function Header(){
     return(
         <header>
-            {props.name},{props.age}
+
         </header>
     )
 }
