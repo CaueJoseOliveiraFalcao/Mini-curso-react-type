@@ -19,4 +19,4 @@ export const Header = styled.h1`
        text-align:center;
        border-bottom : 1px solid #444;
 
-`
+`;
